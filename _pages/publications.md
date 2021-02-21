@@ -6,12 +6,12 @@ author_profile: true
 
 ## 2021
 * <b>Comparing Human versus Machine Translation of Electronic Prescription Directions</b>. <br>
- Lester CA, Ding Y,<b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
+ Lester CA, Ding Y, <b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
  <i>Journal of the American Pharmacists Association (2021)</i>.<br>
 
 * <b>Performance Evaluation of a Prescription Medica-tion Image Classification Model:  An Observational Cohort</b>. <br>
 <b>Li J</b>, Ding Y, Brigid R, Jessie Y, Raed Al K, Lester CA. <br>
-<i> NPJ Digital Medicine Nature Research Journal</i>. (Under Review )<br>
+<i> NPJ Digital Medicine Nature Research Journal. (Under Review )</i><br>
 
 
 ## 2020
@@ -26,7 +26,7 @@ author_profile: true
 <i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
 
 * <b>Transforming Mixed MethodsResearch with Natural Language Processing</b>. <br>
-Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J<b>, Buis L, Guetterman T. <i>Journal of Mixed Methods Research</i>. (Under Review)<br>
+Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J<b>, Buis L, Guetterman T. <i>Journal of Mixed Methods Research (Under Review)</i>. <br>
  
 
 ## 2019
