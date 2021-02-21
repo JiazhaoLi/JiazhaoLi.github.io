@@ -1,5 +1,9 @@
  # main links links
 main:
+
+  - title: "CV"
+    url: "https://jiazhaoli.github.io/files/cv/CV_for_JiazhaoLi.pdf"  
+
   - title: "Publications"
     url: /publications/
 
@@ -18,8 +22,7 @@ main:
   #- title: "My Lab"
   #  url: /lab/
   
-  - title: "CV"
-    url: /cv&contact/  
+
 
   # - title: "Blogs"
   #   url: /year-archive/
