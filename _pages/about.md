@@ -10,15 +10,15 @@ redirect_from:
 
 
 # About Me
-I am the fist-year Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
+I am the first-year Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
 # Research
-I am interested in Text Generation specially in Question Answersing and Knowledge Graph and related application in health-care domain. 
+I am interested in Text Generation specially in Question Answersing, Knowledge Graph and related application in health-care domain. 
 
 # Education
 
 * Ph.D. in Informatics, University of Michigan , 2020 - 2024 (expected)
-* M.S. in Computer Vision, University of Michigan, 2017 - 2019
+* M.S. in Electrical Computer Engineering, University of Michigan, 2017 - 2019
 * B.S. in Electrical Engineering, Nankai University, China, 2013 - 2017
 
 
