@@ -16,9 +16,15 @@ I am interested in Text Generation specially in Question Answersing and Knowledg
 
 # Selected Publications
 
-* **Jiazhao Li**, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran.  "PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions". In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing. Pages:2785–2796
+* <b>PharmMT:A Neural Machine Translation Approach to Simplify Prescription Directions</b>. <br>
+<b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
+<i>In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**)</i>.<br>
+[[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf)
 
-* **Jiazhao Li**, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran.  "Re-ranking biomedical literature forprecision medicine with pre-trained neural models". In the Proceedings of the IEEE International Conference of Healthcare Informatics (ICHI 2020) .
+
+* <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
+<b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
+<i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
 
 
 # Education
