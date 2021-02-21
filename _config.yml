@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiazhao Li"
-  avatar           : "JL.jpg" # "jianli.jpg" #
+  avatar           : "https://jiazhaoli.github.io/images/JL.jpg" # "jianli.jpg" #
   bio              : "Ph.D student @ University of Michigan"
   location         : "Ann Arbor, MI"
   employer         : 
