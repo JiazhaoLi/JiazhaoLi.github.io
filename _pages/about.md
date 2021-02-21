@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +8,8 @@ redirect_from:
 
 ![ ](https://jiazhaoli.github.io/images/avatar.jpg=250x)
 
+
+# About Me
 I am the fist-year Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
 # Research
