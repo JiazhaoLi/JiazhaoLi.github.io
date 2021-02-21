@@ -25,7 +25,7 @@ author_profile: true
 <b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
 <i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
 
-* <b>Transforming Mixed MethodsResearch with Natural Language Processing</b>. <br>
+* <b>Transforming Mixed Methods Research with Natural Language Processing</b>. <br>
 Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. <i>Journal of Mixed Methods Research (Under Review)</i>. <br>
  
 
@@ -34,6 +34,6 @@ Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. <i>J
 Zhao X, <b>Li J</b>, Lester C, Ding Y, Jiang Y, Vydiswaran VGV.  <i>Under review</i>.<br>
 
 
-* <b>Focused representation models for transcribing prescrip-tion instructions.</b>. <br>
+* <b>Focused representation models for transcribing prescription instructions.</b>. <br>
 Zhao X, <b>Li J</b>, Lester C, Jiang Y, Vydiswaran VGV.  <i>Poster MIDAS 2019 Symposium</i>. <br>
 
