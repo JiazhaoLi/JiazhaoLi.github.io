@@ -9,10 +9,10 @@ redirect_from:
 
 
 
-I am a Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
+I am the fist-year Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
 # Research
-I am interested in Text Generation specially in Question Answersing and Knowledge Graph. 
+I am interested in Text Generation specially in Question Answersing and Knowledge Graph and related application in health-care domain. 
 
 # Selected Publications
 
