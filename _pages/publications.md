@@ -22,7 +22,7 @@ author_profile: true
 
 
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
-<b>Jiazhao Li</b>, Adharsh Murali,  Qiaozhu Mei,  V.G.Vinod Vydiswaran. <br>
+<b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
 <i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
 
 * <b>Transforming Mixed MethodsResearch with Natural Language Processing</b>. <br>

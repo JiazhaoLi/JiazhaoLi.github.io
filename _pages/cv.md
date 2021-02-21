@@ -21,7 +21,6 @@ Work experience
 ======
 * 2020.9 - Current : Graduate Student Research Assistant @ Michigan Medicine
 
-
 * 2019.10 - 2020.8 : Research Associate @ Michigan Medicine
 
   
@@ -31,14 +30,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
