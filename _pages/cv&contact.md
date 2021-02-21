@@ -4,8 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]]()
 
-[Chinese CV [PDF]]()
+[CV [PDF]](https://jiazhaoli.github.io/files/cv/CV_for_JiazhaoLi.pdf)
 
 
