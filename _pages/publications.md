@@ -30,10 +30,10 @@ Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. <i>J
  
 
 ## 2019
-* <b>Focused representation with lexical constraintsfor parsing prescription instructions to decrease medication error</b>. 
+* <b>Focused representation with lexical constraintsfor parsing prescription instructions to decrease medication error</b>. <br>
 Zhao X, <b>Li J</b>, Lester C, Ding Y, Jiang Y, Vydiswaran VGV.  <i>Under review</i>.<br>
 
 
-* <b>Focused representation models for transcribing prescrip-tion instructions.</b>. 
-Zhao X, <b>Li J</b>, Lester C, Jiang Y, Vydiswaran VGV.  <i>Poster MIDAS 2019 Symposium</i>.<br>
+* <b>Focused representation models for transcribing prescrip-tion instructions.</b>. <br>
+Zhao X, <b>Li J</b>, Lester C, Jiang Y, Vydiswaran VGV.  <i>Poster MIDAS 2019 Symposium</i>. <br>
 

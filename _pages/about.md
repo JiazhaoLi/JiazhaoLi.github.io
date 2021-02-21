@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+
 
 I am a Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
