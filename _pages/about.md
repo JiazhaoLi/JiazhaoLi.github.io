@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-![ ](https://jiazhaoli.github.io/images/avatar.jpg =250x)
+![ ](https://jiazhaoli.github.io/images/avatar.jpg)
 
 
 # About Me
