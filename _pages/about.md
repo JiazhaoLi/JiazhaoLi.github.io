@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-（https://jiazhaoli.github.io/images/avatar.jpg）
+![ ](https://jiazhaoli.github.io/images/avatar.jpg)
 
 I am the fist-year Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
