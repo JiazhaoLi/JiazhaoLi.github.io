@@ -15,8 +15,7 @@ I am the fist-year Ph.D. student in NLP4Health Lab at University of Michigan sup
 I am interested in Text Generation specially in Question Answersing and Knowledge Graph and related application in health-care domain. 
 
 # Selected Publications
-
-* <b>PharmMT:A Neural Machine Translation Approach to Simplify Prescription Directions</b>. <br>
+<p style="color:red">* <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>.</p><br>
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
 <i>In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**)</i>.<br>
 [[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf)
