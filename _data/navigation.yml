@@ -18,7 +18,7 @@ main:
   #- title: "My Lab"
   #  url: /lab/
   
-  - title: "CV&Contact"
+  - title: "CV"
     url: /cv&contact/  
 
   # - title: "Blogs"
