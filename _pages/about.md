@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae])"
-excerpt: "About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). Prviously, I got my M.S. degree in Computer Vision subarea from University of Michigan and B.S. degree in Electrical Engineering from Nankai University. 
+I am a Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
 # Research
 I am interested in Text Generation specially in Question Answersing and Knowledge Graph. 
