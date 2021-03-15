@@ -25,7 +25,7 @@ author_profile: true
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
 <b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
 <i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/9374401) 
+[[PDF]](https://jiazhaoli.github.io/images/files/2020/ICHI2020_Re-ranking.pdf) 
 
 * <b>Transforming Mixed Methods Research with Natural Language Processing</b>. <br>
 Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. <i>Journal of Mixed Methods Research (Under Review)</i>. <br>
