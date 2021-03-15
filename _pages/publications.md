@@ -8,7 +8,7 @@ author_profile: true
 * <b>Comparing Human versus Machine Translation of Electronic Prescription Directions</b>. <br>
  Lester CA, Ding Y, <b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
  <i>Journal of the American Pharmacists Association (2021)</i>.<br>
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)[[BibTex]](https://jiazhaoli.github.io/files/2021/JAPhA/JaPhA.txt)
 
 * <b>Performance Evaluation of a Prescription Medication Image Classification Model: An Observational Cohort</b>. <br>
 <b>Li J</b>, Ding Y, Brigid R, Jessie Y, Raed Al K, Lester CA. <br>

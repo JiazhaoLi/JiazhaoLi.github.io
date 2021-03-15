@@ -1,0 +1,7 @@
+@article{lester2021comparing,
+  title={Comparing Human versus Machine Translation of Electronic Prescription Directions},
+  author={Lester, Corey A and Ding, Yuting and Li, Jiazhao and Jiang, Yun and Rowell, Brigid and Vydiswaran, VG Vinod},
+  journal={Journal of the American Pharmacists Association},
+  year={2021},
+  publisher={Elsevier}
+}
