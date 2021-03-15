@@ -8,10 +8,12 @@ author_profile: true
 * <b>Comparing Human versus Machine Translation of Electronic Prescription Directions</b>. <br>
  Lester CA, Ding Y, <b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
  <i>Journal of the American Pharmacists Association (2021)</i>.<br>
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)
 
 * <b>Performance Evaluation of a Prescription Medication Image Classification Model: An Observational Cohort</b>. <br>
 <b>Li J</b>, Ding Y, Brigid R, Jessie Y, Raed Al K, Lester CA. <br>
 <i> NPJ Digital Medicine (2021)</i> .<br>
+[To Appear]
 
 ## 2020
 * <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. <br>
@@ -23,6 +25,7 @@ author_profile: true
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
 <b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
 <i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
+[[PDF]](https://github.com/JiazhaoLi/JiazhaoLi.github.io/blob/master/files/2020/ICHI2020_Re-ranking.pdf) 
 
 * <b>Transforming Mixed Methods Research with Natural Language Processing</b>. <br>
 Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. <i>Journal of Mixed Methods Research (Under Review)</i>. <br>
