@@ -15,6 +15,11 @@ author_profile: true
 <i> NPJ Digital Medicine (2021)</i> .<br>
 [To Appear]
 
+* <b>Accelerating Mixed Methods Research with Natural Language Processing of Big Text Data</b>. <br>
+Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. <i>Journal of Mixed Methods Research (2021)</i>. <br>
+[To Appear]
+
+
 ## 2020
 * <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. <br>
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
