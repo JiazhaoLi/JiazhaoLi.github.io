@@ -7,7 +7,8 @@ author_profile: true
 ## 2021
 * <b>Comparing Human versus Machine Translation of Electronic Prescription Directions</b>. <br>
  Lester CA, Ding Y, <b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
- <i>Journal of the American Pharmacists Association (2021)</i>.<br> [[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)[[BibTex]](https://jiazhaoli.github.io/files/2021/JAPhA/JaPhA.txt)
+ <i>Journal of the American Pharmacists Association (2021)</i>.<br> 
+ [[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)[[BibTex]](https://jiazhaoli.github.io/files/2021/JAPhA/JaPhA.txt)
 
 * <b>Performance Evaluation of a Prescription Medication Image Classification Model: An Observational Cohort</b>. <br>
 <b>Li J</b>, Ding Y, Brigid R, Jessie Y, Raed Al K, Lester CA. <br>
@@ -21,8 +22,7 @@ Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T.
 ## 2020
 * <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. <br>
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
-<i>In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**)</i>.<br>
-[[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?)
+<i>In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**)</i>.<br>[[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?)
 
 
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
