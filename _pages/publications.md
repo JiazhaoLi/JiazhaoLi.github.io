@@ -13,7 +13,7 @@ author_profile: true
 <b>Li J</b>, Ding Y, Brigid R, Jessie Y, Raed Al K, Lester CA. <br>
 <i> NPJ Digital Medicine (2021)</i> . 
 
-* <b>Accelerating Mixed Methods Research with Natural Language Processing of Big Text Data</b>. [To Appear]<br>
+* <b>Accelerating Mixed Methods Research with Natural Language Processing of Big Text Data</b>. [[Link]](https://journals.sagepub.com/doi/abs/10.1177/15586898211021196)<br>
 Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T. 
 <i>Journal of Mixed Methods Research (2021)</i>. 
 
