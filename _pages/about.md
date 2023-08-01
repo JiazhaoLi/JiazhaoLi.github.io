@@ -23,15 +23,14 @@ I am interested in Robustness of ML model (backdoor attack and defense of LLM).
 
 
 # Work experience
-* 2023.5 - 2023.8 : Research Scientiest Intern @ Yahoo Research
+* 2023.5 - 2023.8 : Research Scientist Intern @ Yahoo Research
 * 2023.1 - 2023.4 : Graduate Student Instructor @ Michigan Medicine
 * 2020.9 - 2022.12 : Graduate Student Research Assistant @ Michigan Medicine
 * 2019.10 - 2020.8 : Research Associate @ Michigan Medicine
 
 
 # Selected Publications
-
-* <b>Defending against Insertion-based Textual Backdoor Attacks via Attribution</b>.<br>
+* <b>[Defending against Insertion-based Textual Backdoor Attacks via Attribution](https://aclanthology.org/2023.findings-acl.561/)</b>.<br>
 <b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
 <i>In Findings of ACL 2023</i>.<br>
 
@@ -42,7 +41,7 @@ I am interested in Robustness of ML model (backdoor attack and defense of LLM).
 
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
 <b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
-<i>In Proceedings of the IEEE International Conference ofHealthcare Informatics (**ICHI 2020**)</i>.<br>
+<i>In Proceedings of the IEEE International Conference of healthcare Informatics (**ICHI 2020**)</i>.<br>
 
 
 
