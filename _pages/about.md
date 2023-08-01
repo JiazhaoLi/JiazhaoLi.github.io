@@ -32,7 +32,7 @@ I am interested in Robustness of ML model (backdoor attack and defense of LLM).
 # Selected Publications
 * <b>[Defending against Insertion-based Textual Backdoor Attacks via Attribution](https://aclanthology.org/2023.findings-acl.561/)</b>.<br>
 <b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
-<i>In Findings of ACL 2023</i>.<br>
+<i>[In Findings of ACL 2023](https://2023.aclweb.org/)</i>.<br>
 
 * <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>.<br>
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
