@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+* <b>Defending against Insertion-based Textual Backdoor Attacks via Attribution</b>. [[PDF]](https://aclanthology.org/2023.findings-acl.561/) <br> 
+<b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
+<i>In Findings of ACL 2023</i>.<br>
+
+
 ## 2021
 * <b>Comparing Human versus Machine Translation of Electronic Prescription Directions</b>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)[[BibTex]](https://jiazhaoli.github.io/files/2021/JAPhA/JaPhA.txt)<br>
  Lester CA, Ding Y, <b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
@@ -21,7 +27,7 @@ Chang T, DeJonckheere M, Vydiswaran VGV, <b>Li J</b>, Buis L, Guetterman T.
 ## 2020
 * <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. [[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
-<i>In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**)</i>.<br>
+<i>In Findings of EMNLP 2020</i>.<br>
 
 
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. [[PDF]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI2020_Re-ranking.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI.txt)<br>

@@ -10,10 +10,10 @@ redirect_from:
 
 
 # About Me
-I am the first-year Ph.D. student in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
+I am the fourth-year Ph.D. Candidate in NLP4Health Lab at University of Michigan supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). 
 
 # Research
-I am interested in Text Generation specially in Question Answersing, Knowledge Graph and related application in health-care domain. 
+I am interested in Robustness of ML model (backdoor attack and defense of LLM). 
 
 # Education
 
@@ -23,14 +23,21 @@ I am interested in Text Generation specially in Question Answersing, Knowledge G
 
 
 # Work experience
-* 2020.9 - Current : Graduate Student Research Assistant @ Michigan Medicine
+* 2023.5 - 2023.8 : Research Scientiest Intern @ Yahoo Research
+* 2023.1 - 2023.4 : Graduate Student Instructor @ Michigan Medicine
+* 2020.9 - 2022.12 : Graduate Student Research Assistant @ Michigan Medicine
 * 2019.10 - 2020.8 : Research Associate @ Michigan Medicine
 
 
 # Selected Publications
+
+* <b>Defending against Insertion-based Textual Backdoor Attacks via Attribution</b>.<br>
+<b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
+<i>In Findings of ACL 2023</i>.<br>
+
 * <b>PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>.<br>
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
-<i>In Findings of EMNLP, the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**)</i>.<br>
+<i>In Findings of EMNLP 2020</i>.<br>
 
 
 * <b>Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. <br>
