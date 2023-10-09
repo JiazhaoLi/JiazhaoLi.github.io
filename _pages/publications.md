@@ -4,7 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+<<<<<<< HEAD
 # Conference Papers 
+=======
+## 2022
+* <b>Defending against Insertion-based Textual Backdoor Attacks via Attribution</b>. [[PDF]](https://aclanthology.org/2023.findings-acl.561/) <br> 
+<b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
+<i>In Findings of ACL 2023</i>.<br>
+
+
+## 2021
+* <b>Comparing Human versus Machine Translation of Electronic Prescription Directions</b>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1544319121000741)[[BibTex]](https://jiazhaoli.github.io/files/2021/JAPhA/JaPhA.txt)<br>
+ Lester CA, Ding Y, <b>Li J</b>, Jiang Y, Rowell B, Vydiswaran VGV.  <br>
+ <i>Journal of the American Pharmacists Association (2021)</i>. 
+>>>>>>> 0c1dc1366054a27bca7d49058a16e4ad481e2f3f
 
 * <b>[Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger</b>. [[PDF]](https://arxiv.org/abs/2304.14475) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
