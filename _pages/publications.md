@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Conference Papers 
+## Conference Papers 
 
 * <b>[Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger</b>. [[PDF]](https://arxiv.org/abs/2304.14475) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
@@ -25,7 +25,7 @@ author_profile: true
 <b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
 <i>ICHI 2020</i>.<br>
 
- # Journal Papers
+## Journal Papers
 
 
 * <b>Accelerating Theme Analysis of Telehealth via Active Learning </b>.<br>
