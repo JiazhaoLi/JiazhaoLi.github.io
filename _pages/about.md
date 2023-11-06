@@ -15,7 +15,7 @@ I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supe
 # Research
 My research interests are Cyber Security, Generative models, Health informatics. 
 
-<p><span style="color:DarkBlue">I will graduate in May 2024 and I am actively searching for full time position (Applied MLE, Research Scientist.) in 2024. If you have any positions available, please feel free to reach out me via email jiazhaol at umich dot edu !</span>.</p>
+<p><span style="color:DarkBlue">I am set to graduate in May 2024 and am currently seeking full-time positions in Applied MLE and Research Scientist roles for 2024. Should you have any available opportunities, I would greatly appreciate it if you could contact me at email jiazhaol at umich dot edu ! Thank you! </span>.</p>
 
 # Work experience
 * 05/2023 - 08/2023 : Research Scientiest Intern @ Yahoo Research
