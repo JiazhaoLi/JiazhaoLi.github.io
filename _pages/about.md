@@ -13,9 +13,9 @@ redirect_from:
 I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
 
 # Research
-My research interests are Cyber Security, Generative models, Health informatics. 
+My research interests are Cyber Security (red-team, backdoor attack & defense of LLMs), Generative models, Health informatics. 
 
-<p><span style="color:DarkBlue">I am set to graduate in May 2024 and am currently seeking full-time positions in Applied MLE and Research Scientist roles for 2024. Should you have any available opportunities, I would greatly appreciate it if you could contact me at email jiazhaol at umich dot edu ! Thank you! </span>.</p>
+<p><span style="color:DarkBlue">I am set to graduate in July 2024 and am currently seeking full-time positions in Applied MLE, Software Engineer, Research Scientist roles for 2024. Should you have any available opportunities, I would greatly appreciate it if you could contact me at email jiazhaol at umich dot edu ! Thank you! </span>.</p>
 
 # Work experience
 * 05/2023 - 08/2023 : Research Scientiest Intern @ Yahoo Research
