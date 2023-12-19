@@ -10,10 +10,10 @@ redirect_from:
 
 
 # About Me
-I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supervied by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
+I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supervised by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
 
 # Research
-My research interests are Cyber Security (red-team, backdoor attack & defense of LLMs), Generative models, Health informatics. 
+My research interests are Generative models and health informatics. 
 
 <p><span style="color:DarkBlue">I am set to graduate in July 2024 and am currently seeking full-time positions in Applied MLE, Software Engineer, Research Scientist roles for 2024. Should you have any available opportunities, I would greatly appreciate it if you could contact me at email jiazhaol at umich dot edu ! Thank you! </span>.</p>
 
@@ -30,15 +30,6 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 
 
 # Selected Publications
-
-* <b>[Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger</b>. [[Paper]](https://arxiv.org/abs/2304.14475) <br> 
-<b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
-<i>Preprint</i>.<br>
-
-
-* <b>[Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution</b>. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
-<b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
-<i>Findings of ACL 2023</i>.<br>
 
 * <b>[Machine Translation] PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
