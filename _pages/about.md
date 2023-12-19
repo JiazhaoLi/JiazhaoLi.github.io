@@ -15,7 +15,7 @@ I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supe
 # Research
 My research interests are Generative models and health informatics. 
 
-<p><span style="color:DarkBlue">I am set to graduate in July 2024 and am currently seeking full-time positions in Applied MLE, Software Engineer, Research Scientist roles for 2024. Should you have any available opportunities, I would greatly appreciate it if you could contact me at email jiazhaol at umich dot edu ! Thank you! </span>.</p>
+
 
 # Work experience
 * 05/2023 - 08/2023 : Research Scientiest Intern @ Yahoo Research
@@ -24,7 +24,7 @@ My research interests are Generative models and health informatics.
 
 # Education
 
-* Ph.D. in Informatics, University of Michigan , 2020 - 2024 (expected)
+* Ph.D. in Informatics, University of Michigan , 2020 - 2025 (expected)
 * M.S. in Electrical Computer Engineering, University of Michigan,2017 - 2019
 * B.S. in Electrical Engineering, Nankai University, China,2013 - 2017
 
