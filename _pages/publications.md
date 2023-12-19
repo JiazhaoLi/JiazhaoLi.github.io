@@ -6,14 +6,10 @@ author_profile: true
 
 ## Conference Papers 
 
-* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[PDF]](https://arxiv.org/abs/2304.14475) <br> 
-<b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
-<i><b>Preprint</b></i>.<br>
 
 
-* [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
-<b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
-<i><b>Findings of ACL 2023</b></i>.<br>
+
+
 
 
 * PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
@@ -31,7 +27,6 @@ author_profile: true
 * Accelerating Theme Analysis of Telehealth via Active Learning.<br>
  <b>Li J</b>, Buis LR, Brown LK, Plegue MA, Kadri R, Laurie AR, Guetterman TC, Veinot TC, Vydiswaran VGV <br>
  <i><b>Preprint </b></i>. 
-
 
 
 * Identifying Inequities in Video and Audio Telehealth Services for Primary Care Encounters During COVID-19: Repeated Cross-Sectional, Observational Study. [[Paper]](https://www.jmir.org/2023/1/e49804/)<br>
