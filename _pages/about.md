@@ -52,7 +52,7 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 
 # Public Service
 
-<b>Reviewer or PC of conference: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
-<b>Reviewer of Journal: Frontiers in Big Data <br>
+<b>Reviewer or PC of conference<b>: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
+<b>Reviewer of Journal<b>: Frontiers in Big Data <br>
 
 <!---Experience--->
