@@ -39,14 +39,14 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 <b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
 <i><b>Findings of ACL 2023</b></i>.<br>
 
-* <b>[Machine Translation] PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
+* [Machine Translation] PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
-<i>Findings of EMNLP 2020</i>.<br>
+<i><b>Findings of EMNLP 2020</b></i>.<br>
 
 
-* <b>[Information Retrieval] Re-ranking biomedical literature for precision medicine with pre-trained neural models</b>. [[Paper]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI2020_Re-ranking.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI.txt)<br>
+* [Information Retrieval] Re-ranking biomedical literature for precision medicine with pre-trained neural models. [[Paper]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI2020_Re-ranking.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI.txt)<br>
 <b>Jiazhao Li</b>, Adharsh Murali, Qiaozhu Mei, V.G.Vinod Vydiswaran. <br>
-<i>ICHI 2020</i>.<br>
+<b><i>ICHI 2020</i></b>.<br>
 
 
 
