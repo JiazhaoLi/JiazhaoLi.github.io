@@ -12,12 +12,12 @@ author_profile: true
 
 * [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
 <b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
-<i><b>Findings of ACL 2023</b></i>.<br>
+<i><b>Findings of ACL 2023, TrustNLP Workshop</b></i>.<br>
 
 
 * [Text Generative] PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
-<i><b>Findings of EMNLP 2020</b></i>.<br>
+<i><b>Findings of EMNLP 2020, Clinical NLP workshop</b></i>.<br>
 
 
 * [IR] Re-ranking biomedical literature for precision medicine with pre-trained neural models. [[Paper]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI2020_Re-ranking.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/ICHI/ICHI.txt)<br>
