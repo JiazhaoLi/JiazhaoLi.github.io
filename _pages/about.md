@@ -23,12 +23,21 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 
 # Education
 
-* Ph.D. in Informatics, University of Michigan , 2020 - 2025 (expected)
+* Ph.D. in Informatics, University of Michigan , 2020 - 2024 July (expected)
 * M.S. in Electrical Computer Engineering, University of Michigan,2017 - 2019
 * B.S. in Electrical Engineering, Nankai University, China,2013 - 2017
 
 
 # Selected Publications
+
+* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[PDF]](https://arxiv.org/abs/2304.14475) <br> 
+<b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
+<i><b>Preprint</b></i>.<br>
+
+
+* [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
+<b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
+<i><b>Findings of ACL 2023</b></i>.<br>
 
 * <b>[Machine Translation] PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions</b>. [[Paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [[BibTex]](https://jiazhaoli.github.io/files/2020/EMNLP/PharmMT.txt)[[Video]](https://slideslive.com/38940180/pharmmt-a-neural-machine-translation-approach-to-simplify-prescription-directions?) <br> 
 <b>Jiazhao Li</b>, Corey Lester, Xinyan Zhao, Yuting Ding, Yun Jiang, and V.G.Vinod Vydiswaran. <br>
@@ -43,7 +52,7 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 
 # Public Service
 
-Reviewer or PC of conference: ACL ARR, EACL 2023, EMNLP 20'21'22'23
-Reviewer of Journal: Frontiers in Big Data
+<b>Reviewer or PC of conference: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
+<b>Reviewer of Journal: Frontiers in Big Data <br>
 
 <!---Experience--->
