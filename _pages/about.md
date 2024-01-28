@@ -21,11 +21,23 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 * 10/2019 - 08/2020 : Research Associate @ Michigan Medicine
 
 
+
 # Education
 
 * Ph.D. in Informatics, University of Michigan , 2020 - 2024 July (expected)
 * M.S. in Electrical Computer Engineering, University of Michigan,2017 - 2019
 * B.S. in Electrical Engineering, Nankai University, China,2013 - 2017
+
+
+# Teaching Assistant
+
+WN 2024: SI 630 Natura Language Processing Algorithms and People. <br>
+WN 2023: LHS 712 Natural Language Processing for Health. <br>
+
+# Public Service
+
+<b>Reviewer or PC of conference</b>: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
+<b>Reviewer of Journal</b>: Frontiers in Big Data <br>
 
 
 # Selected Publications
@@ -50,9 +62,6 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 
 
 
-# Public Service
 
-<b>Reviewer or PC of conference</b>: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
-<b>Reviewer of Journal</b>: Frontiers in Big Data <br>
 
 <!---Experience--->
