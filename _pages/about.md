@@ -13,8 +13,7 @@ redirect_from:
 I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supervised by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
 
 # Research
-My research interests are Generative models and health informatics. 
-
+My research interests are Cyber Security (red-team, backdoor attack & defense of LLMs), Generative models, Health informatics.
 
 
 # Work experience
@@ -42,5 +41,9 @@ My research interests are Generative models and health informatics.
 
 
 
-<!---Activity and Service--->
+# Public Service
+
+Reviewer or PC of conference: ACL ARR, EACL 2023, EMNLP 20'21'22'23
+Reviewer of Journal: Frontiers in Big Data
+
 <!---Experience--->
