@@ -10,17 +10,10 @@ redirect_from:
 
 
 # About Me
-I am the fourth-year Ph.D. Candidate from University of Michigan, Ann Arbor supervised by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
+I am the fourth-year Ph.D. Candidate from School of Information @ University of Michigan-Ann Arbor,  supervised by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
 
 # Research
-My research interests are Cyber Security (red-team, backdoor attack & defense of LLMs), Generative models, Health informatics.
-
-
-# Work experience
-* 05/2023 - 08/2023 : Research Scientiest Intern @ Yahoo Research
-* 10/2019 - 08/2020 : Research Associate @ Michigan Medicine
-
-
+My research interests are Cyber Security (red-teaming, backdoor attack & defense of LLMs), Generative models, Health informatics.
 
 # Education
 
@@ -28,23 +21,30 @@ My research interests are Cyber Security (red-team, backdoor attack & defense of
 * M.S. in Electrical Computer Engineering, University of Michigan,2017 - 2019
 * B.S. in Electrical Engineering, Nankai University, China,2013 - 2017
 
+# Industry Experience
+* 05/2023 - 08/2023 : Research Scientiest Intern @ Yahoo Research
+* 10/2019 - 08/2020 : Research Associate @ Michigan Medicine
 
-# Teaching Assistant
-
-WN 2024: SI 630 Natura Language Processing Algorithms and People. <br>
-WN 2023: LHS 712 Natural Language Processing for Health. <br>
+# Teaching Experience
+  Graduate Student Instructor:<br>
+ * WN 2024: SI 630 Natura Language Processing Algorithms and People. <br>
+ * WN 2023: LHS 712 Natural Language Processing for Health. <br>
 
 # Public Service
 
-<b>Reviewer or PC of conference</b>: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
-<b>Reviewer of Journal</b>: Frontiers in Big Data <br>
+ * <b>Reviewer or PC of conference</b>: ACL ARR, EACL 2023, EMNLP 20'21'22'23<br>
+ * <b>Reviewer of Journal</b>: Frontiers in Big Data, section Cybersecurity and Privacy. <br>
 
+# Awards 
+
+ * Rackham Conference Travel Grant <br>
+ * UMSI Conference Travel Grant <br>
 
 # Selected Publications
 
-* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Preprint]](https://arxiv.org/abs/2304.14475) <br> 
+* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://arxiv.org/abs/2304.14475) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
-<i><b>Preprint</b></i>.<br>
+<i><b>NAACL 2024</b></i>.<br>
 
 
 * [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
