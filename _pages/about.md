@@ -42,6 +42,12 @@ My research interests are Cyber Security (red-teaming, backdoor attack & defense
 
 # Selected Publications
 
+
+* [Cyber Security] Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment [[Paper]](https://arxiv.org/abs/2402.14968) <br> 
+Jiongxiao Wang, <b>Jiazhao Li</b>, Yiquan Li, Xiangyu Qi, Muhao Chen, Junjie Hu, Yixuan Li, Bo Li, and Chaowei Xiao <br>
+<i><b>arXiv preprint arXiv:2402.14968, 2024</b></i>.<br>
+
+
 * [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://arxiv.org/abs/2304.14475) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
 <i>NAACL 2024, Spotlight Paper of 4th TrustNLP workshop</i>.<br>
