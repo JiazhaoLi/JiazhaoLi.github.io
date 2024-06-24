@@ -10,14 +10,14 @@ redirect_from:
 
 
 # About Me
-I am the fourth-year Ph.D. Candidate from School of Information @ University of Michigan-Ann Arbor,  supervised by [Dr. V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
+I am the fourth-year Ph.D. Candidate from School of Information @ University of Michigan-Ann Arbor,  supervised by Professor [V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  I also work with Professor [Chaowei Xiao](https://xiaocw11.github.io/) on cybersecurity of LLM.
 
 # Research
 My research interests are Cyber Security (red-teaming, backdoor attack & defense of LLMs), Generative models, Health informatics.
 
 # Education
 
-* Ph.D. in Informatics, University of Michigan , 2020 - 2024 July (expected)
+* Ph.D. in Informatics, University of Michigan , 2020 - 2024 Aug (expected)
 * M.S. in Electrical Computer Engineering, University of Michigan,2017 - 2019
 * B.S. in Electrical Engineering, Nankai University, China,2013 - 2017
 
@@ -44,7 +44,7 @@ My research interests are Cyber Security (red-teaming, backdoor attack & defense
 
 * [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://arxiv.org/abs/2304.14475) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
-<i>NAACL 2024</i>.<br>
+<i>NAACL 2024, Spotlight Paper of 4th TrustNLP workshop</i>.<br>
 
 
 * [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 

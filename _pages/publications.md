@@ -7,7 +7,7 @@ author_profile: true
 ## Conference Papers 
 * [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://arxiv.org/abs/2304.14475) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
-<i><b>NAACL 2024</b></i>.<br>
+<i><b>NAACL 2024, Spotlight Paper of 4th TrustNLP workshop</b></i>.<br>
 
 
 * [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
