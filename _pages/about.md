@@ -48,7 +48,7 @@ Jiongxiao Wang, <b>Jiazhao Li</b>, Yiquan Li, Xiangyu Qi, Muhao Chen, Junjie Hu,
 <i><b>arXiv preprint arXiv:2402.14968, 2024</b></i>.<br>
 
 
-* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://arxiv.org/abs/2304.14475) <br> 
+* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://aclanthology.org/2024.naacl-long.165.pdf) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
 <i>NAACL 2024, Spotlight Paper of 4th TrustNLP workshop</i>.<br>
 
