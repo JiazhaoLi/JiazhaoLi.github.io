@@ -10,7 +10,7 @@ redirect_from:
 
 
 # About Me
-I am Jiazhao Li, an Applied Scientist on the Rufus team within Amazon’s Store Fundamental AI Post-Training group. I earned my Ph.D. from the School of Information at the University of Michigan, Ann Arbor, where I was advised by Prof. [V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also collaborate with Prof. [Chaowei Xiao](https://xiaocw11.github.io/) on research in Trustworthy AI.
+I am Jiazhao Li, an Applied Scientist on the Rufus Post-Training Team, the Amazon’s Store Fundamental AI team. I earned my Ph.D. from the School of Information at the University of Michigan, Ann Arbor, where I was advised by Prof. [V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also collaborate with Prof. [Chaowei Xiao](https://xiaocw11.github.io/) on research in Trustworthy AI.
 
 
 # Research
@@ -46,7 +46,7 @@ My research interests are Truthworthy AI (red-teaming, backdoor attack & defense
 # Selected Publications
 
 * [Truthworthy AI] Benchmarking vision language model unlearning via fictitious facial identity dataset [[Paper]](https://arxiv.org/pdf/2411.03554) <br>
-Yingzi Ma, Jiongxiao Wang, Fei Wang, Siyuan Ma, Jiazhao Li, Jinsheng Pan, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao <br>
+Yingzi Ma, Jiongxiao Wang, Fei Wang, Siyuan Ma, <b>Jiazhao Li</b>, Jinsheng Pan, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao <br>
 <i>ICLR 2025</i>.<br>
 
 * [Truthworthy AI] Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment [[Paper]](https://arxiv.org/abs/2402.14968) <br> 
