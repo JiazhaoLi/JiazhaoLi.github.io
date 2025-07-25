@@ -4,20 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprint
-
-* [Cyber Security] Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment [[Paper]](https://arxiv.org/abs/2402.14968) <br> 
-Jiongxiao Wang, <b>Jiazhao Li</b>, Yiquan Li, Xiangyu Qi, Muhao Chen, Junjie Hu, Yixuan Li, Bo Li, and Chaowei Xiao <br>
-<i><b>arXiv preprint arXiv:2402.14968, 2024</b></i>.<br>
-
-
 ## Conference Papers 
-* [Cyber Security] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://aclanthology.org/2024.naacl-long.165.pdf) <br> 
+
+* [Truthworthy AI] Benchmarking vision language model unlearning via fictitious facial identity dataset [[Paper]](https://arxiv.org/pdf/2411.03554) <br>
+Yingzi Ma, Jiongxiao Wang, Fei Wang, Siyuan Ma, <b>Jiazhao Li</b>, Jinsheng Pan, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao <br>
+<i>ICLR 2025</i>.<br>
+
+* [Truthworthy AI] Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment [[Paper]](https://arxiv.org/abs/2402.14968) <br> 
+Jiongxiao Wang, <b>Jiazhao Li</b>, Yiquan Li, Xiangyu Qi, Muhao Chen, Junjie Hu, Yixuan Li, Bo Li, and Chaowei Xiao <br>
+<i>NeurIPS 2024</i>.<br>
+
+* [Truthworthy AI] ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger. [[Paper]](https://aclanthology.org/2024.naacl-long.165.pdf) <br> 
 <b>Jiazhao Li</b>, Yijin Yang, Zhuofeng Wu, V.G. Vinod Vydiswaran, Chaowei Xiao <br>
 <i><b>NAACL 2024, Spotlight Paper of 4th TrustNLP workshop</b></i>.<br>
 
 
-* [Cyber Security] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
+* [Truthworthy AI] Defending against Insertion-based Textual Backdoor Attacks via Attribution. [[Paper]](https://aclanthology.org/2023.findings-acl.561/) <br> 
 <b>Jiazhao Li</b>, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V.G.Vinod Vydiswaran <br>
 <i><b>Findings of ACL 2023</b></i>.<br>
 
