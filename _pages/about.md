@@ -10,11 +10,10 @@ redirect_from:
 
 
 # About Me
-I am Jiazhao Li, an Applied Scientist on the Rufus Post-Training Team, the Amazon’s Store Fundamental AI. I earned my Ph.D. from the School of Information at the University of Michigan, Ann Arbor, where I was advised by Prof. [V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/). I also collaborate with Prof. [Chaowei Xiao](https://xiaocw11.github.io/) on research in Trustworthy AI.
-
+I am Jiazhao Li, an Applied Scientist on the Rufus Post-Training Team, the Amazon’s Store Fundamental AI. I earned my Ph.D. from the School of Information at the University of Michigan, Ann Arbor, where I was advised by Prof. [V.G.Vinod Vydiswaran](http://www-personal.umich.edu/~vgvinodv/).  
 
 # Research
-My research interests are Truthworthy AI (red-teaming, backdoor attack & defense of LLMs), Generative models, Health informatics.
+My research interests are Truthworthy AI (red-teaming, backdoor attack & defense of LLMs), Generative models, Health informatics. 
 
 # Education
 
